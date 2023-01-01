@@ -11,6 +11,7 @@
 		42E309CB2961CA57001DD1BF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E309CA2961CA57001DD1BF /* ContentView.swift */; };
 		42E309CD2961CA5B001DD1BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42E309CC2961CA5B001DD1BF /* Assets.xcassets */; };
 		42E309D02961CA5B001DD1BF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42E309CF2961CA5B001DD1BF /* Preview Assets.xcassets */; };
+		42E309D72962421E001DD1BF /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E309D62962421E001DD1BF /* WeatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		42E309CA2961CA57001DD1BF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		42E309CC2961CA5B001DD1BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		42E309CF2961CA5B001DD1BF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		42E309D62962421E001DD1BF /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				42E309C82961CA57001DD1BF /* WeatherAppApp.swift */,
 				42E309CA2961CA57001DD1BF /* ContentView.swift */,
+				42E309D62962421E001DD1BF /* WeatherButton.swift */,
 				42E309CC2961CA5B001DD1BF /* Assets.xcassets */,
 				42E309CE2961CA5B001DD1BF /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				42E309CB2961CA57001DD1BF /* ContentView.swift in Sources */,
 				42E309C92961CA57001DD1BF /* WeatherAppApp.swift in Sources */,
+				42E309D72962421E001DD1BF /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
